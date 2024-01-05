@@ -1,0 +1,48 @@
+*{
+    font-family: arial;
+}
+.bookmarker .header h3{
+    color: #aaa;
+    font-size: 30px;
+    font-weight: bold;
+}
+.bookmarker .header{
+    border-bottom: 1px solid #aaa;
+}
+.contect{
+    margin-top: 20px;
+    margin-bottom: 25px;
+    background-color: #eee;
+    padding: 30px;
+}
+.contect h4{
+    font-size: 25px;
+    font-weight: bold;
+    padding: 30px 0;
+}
+.contect .info label{
+    font-weight: bold;
+    color: #333;
+    margin: 20px 0;
+}
+.bookmarker .footer{
+    border-top: 1px solid #aaa;
+}
+.bookmarker .footer h3{
+    color: #aaa;
+    font-size: 14px;
+    font-weight: bold;
+}
+.bookmarker .links{
+    background-image: linear-gradient(#EEE,#FFF)
+}
+.bookmarker .links h2{
+    font-size: 25px;
+    font-weight: bold;
+    padding-left: 20px;
+    color: #333;
+}
+.form-control:focus{
+    border: 2px solid #111 !important;
+    box-shadow: none !important;
+}
